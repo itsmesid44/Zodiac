@@ -1,8 +1,8 @@
-# Meridia
+# Zodiac
 
 ![MeridiaPreview](./public/preview/ss-7.png)
 
-Meridia is a modern code editor where you code, and AI collaborates — never takes control.
+Zodiac (previously Meridia) is a modern code editor where you code, and AI collaborates — never takes control.
 
 # Documentation
 
