@@ -1,15 +1,8 @@
-I am not maintaining this project anymore. I don't have the same energy as when I started this project.
-I started this project about 1.5 years ago, I switched multiple repos so the history is not full.
-
-## BUT, Something big is coming.!!!
-
-# Meridia (Archived)
+# Meridia
 
 ![MeridiaPreview](./public/preview/ss-7.png)
 
 Meridia is a modern code editor where you code, and AI collaborates — never takes control.
-
-Visit [meridia.dev](https://meridia.dev) for more info.
 
 # Documentation
 
